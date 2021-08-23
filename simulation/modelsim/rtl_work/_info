@@ -1,0 +1,56 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/COE 311 FBGA with ahmed/Project/simulation/modelsim
+vProject_COE312
+Z1 !s110 1587961300
+!i10b 1
+!s100 PKOfz8L8gQ]iO]_H@5_[01
+IM2ZkA[V4CdmA?nOQGST9`0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1587844478
+Z4 8C:/COE 311 FBGA with ahmed/Project/Project_COE312.v
+Z5 FC:/COE 311 FBGA with ahmed/Project/Project_COE312.v
+L0 1
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1587961300.000000
+Z8 !s107 C:/COE 311 FBGA with ahmed/Project/Project_COE312.v|
+Z9 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/COE 311 FBGA with ahmed/Project|C:/COE 311 FBGA with ahmed/Project/Project_COE312.v|
+!i113 1
+Z10 o-vlog01compat -work work
+Z11 !s92 -vlog01compat -work work {+incdir+C:/COE 311 FBGA with ahmed/Project}
+Z12 tCvgOpt 0
+n@project_@c@o@e312
+vtest_Project_COE312
+R1
+!i10b 1
+!s100 >amJe8bI8=?^6iO83RJaV3
+I>iAgS@OSBmR`;YINZZzC43
+R2
+R0
+R3
+R4
+R5
+L0 70
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+R12
+ntest_@project_@c@o@e312
