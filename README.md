@@ -12,12 +12,12 @@ This is the result of the project but the explanation of how the simulation appe
 We learn how to write a project idea by Verilog to Enhance course digital logic design. The project about implement module to show output COE312 by ModelSim, While writing the module, we must take care of the mentioned conditions, such as the initial condition and counting each time ten times. It helped us take advantage due to the problems that appeared and tried to solve them.
 
 # Implementation:
-In the beginning, the module of Project_COE312 shown in table 1.is implements classifies states to assign a phrase as hexadecimal. After the reset signal, the initial state needs to count ten times after that the output is C in hexadecimal. When passing in the reset signal the first process to counter to count before entering to states; then count from 1 to 10. After that classify depend on condition to wait for counts ten times then equal zero, To again count from one and set state to next state, and in the remaining cases, the same idea is repeated, with the output changing.
-#todo table 1 
+In the beginning, the module of Project_COE312 shown in code of `module Project_COE312`. is implements classifies states to assign a phrase as hexadecimal. After the reset signal, the initial state needs to count ten times after that the output is C in hexadecimal. When passing in the reset signal the first process to counter to count before entering to states; then count from 1 to 10. After that classify depend on condition to wait for counts ten times then equal zero, To again count from one and set state to next state, and in the remaining cases, the same idea is repeated, with the output changing.
 
-In table 2 shows the test_Project_COE312 module, The input defines by register but output as wire with size at 4-bit because of this size to one letter in hexadecimal. The idea of the project is count ten times then to fewer lines of code used for loop then define integer before start send and test to a module. To can test our project set the input to zero after that by for loop from 0 to 11 to send count and delay with 10 then in delay with 100 set 11 count but because of a counter in module initially count by one, not zero.
-#todo table 2
 
+In codes shows the `test_Project_COE312 module`, The input defines by register but output as wire with size at 4-bit because of this size to one letter in hexadecimal. The idea of the project is count ten times then to fewer lines of code used for loop then define integer before start send and test to a module. To can test our project set the input to zero after that by for loop from 0 to 11 to send count and delay with 10 then in delay with 100 set 11 count but because of a counter in module initially count by one, not zero.
+
+[[To see Codes here](https://github.com/MohammadYAmmar/Design-Moore-FSM-project-via-Quartus-and-ModelSim/blob/main/Project_COE312.v)]
 
 # Steps:
 1. Firstly make a new project with the name Project_COE312 in the program Quartus, It is important to confirm the type of device used in the project. To find that fastly writes that in the filter. (look at figure 1).

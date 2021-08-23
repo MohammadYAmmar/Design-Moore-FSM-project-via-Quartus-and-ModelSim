@@ -1,4 +1,4 @@
-module Project_COE312(input clk, input reset,input count_up , output reg [3:0] y);//By Mohammad Yasir Ammar | 3704975 | April / 2020
+module Project_COE312(input clk, input reset,input count_up , output reg [3:0] y);//By Mohammad Yaser Ammar | 3704975 | April / 2020
 reg [2:0]state;
 parameter S0=0,S1=1,S2=2,S3=3,S4=4,S5=5; //we have 6 state ; because initially letter in State 0
 reg[3:0] count;//Counter 10 times ; then need 4-bit | Need condtion max in 10 ; count 1 to 10
@@ -134,3 +134,5 @@ initial begin
 	end    
 endmodule
 
+//By: https://github.com/MohammadYAmmar
+//Project in GitHub: https://github.com/MohammadYAmmar/Design-Moore-FSM-project-via-Quartus-and-ModelSim
