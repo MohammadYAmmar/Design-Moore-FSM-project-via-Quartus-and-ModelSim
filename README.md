@@ -89,9 +89,9 @@ Firstly, the FPGA  is “Feld Programmable Gate Arrays (FPGAs) are semiconductor
 These are snapshots of him during his first experiments with him at the beginning of the 2020 semester, before switching online studies due to the Corona pandemic.
 
 
-  ![alt text]( "The device used during the experiments 1")
+  ![alt text](https://github.com/MohammadYAmmar/Design-Moore-FSM-project-via-Quartus-and-ModelSim/blob/main/Pictures%20using%20in%20ReadMe%20for%20description/The%20device%20used%20during%20the%20experiments%201.png "The device used during the experiments 1")
 
-  ![alt text]( "The device used during the experiments 22")
+  ![alt text](https://github.com/MohammadYAmmar/Design-Moore-FSM-project-via-Quartus-and-ModelSim/blob/main/Pictures%20using%20in%20ReadMe%20for%20description/The%20device%20used%20during%20the%20experiments%202.jpg "The device used during the experiments 2")
 ---
 # Subject 
 Digital Systems Design | COE312
