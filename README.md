@@ -1,6 +1,6 @@
 # Design Moore FSM project via Quartus and ModelSim
 
-Description: This project was my last additional course project for Verilog Digital Systems Design during my BS in Computer Engineering, where I simulate a statement through Moore FSM. With full explanation.
+Description: This project was my last additional course project for Verilog in Digital Systems Design during my BS in Computer Engineering, where I simulate a statement through Moore FSM. With full explanation.
 
 This is the result of the project but the explanation of how the simulation appeared is in the rest of the illustration.
 
@@ -82,12 +82,25 @@ because it had not added the count condition from the first case.
 
    ![alt text](https://github.com/MohammadYAmmar/Design-Moore-FSM-project-via-Quartus-and-ModelSim/blob/main/Pictures%20using%20in%20ReadMe%20for%20description/figure%2013%20error%203%20in%20the%20result%20waves%20in%20ModelSim.png "figure 13: error 3 in the result waves in ModelSim")
 
+---
+# About the FPGA device 
+Firstly, the FPGA  is “Feld Programmable Gate Arrays (FPGAs) are semiconductor device that is based around a matrix of configurable logic blocks (CLBs) connected via programmable interconnects. FPGAs can be reprogrammed to the desired application or functionality requirements after manufacturing. This feature distinguishes FPGAs from Application-Specific Integrated Circuits (ASICs), which are custom manufactured for specific design tasks.
+
+These are snapshots of him during his first experiments with him at the beginning of the 2020 semester, before switching online studies due to the Corona pandemic.
 
 
+  ![alt text]( "The device used during the experiments 1")
+
+  ![alt text]( "The device used during the experiments 22")
 ---
 # Subject 
 Digital Systems Design | COE312
 Dr. Mohammed Abdulqaher Ahmed Alasali
+
+
+---
+# Licence  
+Solderpad Hardware Licence Version 2.0  as it's basically Apache-2.0 for Verilog.
 
 ---
 
